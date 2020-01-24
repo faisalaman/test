@@ -11,3 +11,16 @@ C:\Users\faman\Downloads\backend-dev-test\ConsoleCalculator\obj\Debug\netcoreapp
 C:\Users\faman\Downloads\backend-dev-test\ConsoleCalculator\obj\Debug\netcoreapp2.2\ConsoleCalculator.csproj.CopyComplete
 C:\Users\faman\Downloads\backend-dev-test\ConsoleCalculator\obj\Debug\netcoreapp2.2\ConsoleCalculator.dll
 C:\Users\faman\Downloads\backend-dev-test\ConsoleCalculator\obj\Debug\netcoreapp2.2\ConsoleCalculator.pdb
+D:\WorkingData\backend-dev-test\ConsoleCalculator\bin\Debug\netcoreapp2.2\ConsoleCalculator.deps.json
+D:\WorkingData\backend-dev-test\ConsoleCalculator\bin\Debug\netcoreapp2.2\ConsoleCalculator.runtimeconfig.json
+D:\WorkingData\backend-dev-test\ConsoleCalculator\bin\Debug\netcoreapp2.2\ConsoleCalculator.runtimeconfig.dev.json
+D:\WorkingData\backend-dev-test\ConsoleCalculator\bin\Debug\netcoreapp2.2\ConsoleCalculator.dll
+D:\WorkingData\backend-dev-test\ConsoleCalculator\bin\Debug\netcoreapp2.2\ConsoleCalculator.pdb
+D:\WorkingData\backend-dev-test\ConsoleCalculator\bin\Debug\netcoreapp2.2\CalculatorLogic.dll
+D:\WorkingData\backend-dev-test\ConsoleCalculator\bin\Debug\netcoreapp2.2\CalculatorLogic.pdb
+D:\WorkingData\backend-dev-test\ConsoleCalculator\obj\Debug\netcoreapp2.2\ConsoleCalculator.csprojAssemblyReference.cache
+D:\WorkingData\backend-dev-test\ConsoleCalculator\obj\Debug\netcoreapp2.2\ConsoleCalculator.AssemblyInfoInputs.cache
+D:\WorkingData\backend-dev-test\ConsoleCalculator\obj\Debug\netcoreapp2.2\ConsoleCalculator.AssemblyInfo.cs
+D:\WorkingData\backend-dev-test\ConsoleCalculator\obj\Debug\netcoreapp2.2\ConsoleCalculator.csproj.CopyComplete
+D:\WorkingData\backend-dev-test\ConsoleCalculator\obj\Debug\netcoreapp2.2\ConsoleCalculator.dll
+D:\WorkingData\backend-dev-test\ConsoleCalculator\obj\Debug\netcoreapp2.2\ConsoleCalculator.pdb

@@ -5,3 +5,11 @@ C:\Users\faman\Downloads\backend-dev-test\CalculatorLogic\obj\Debug\netcoreapp2.
 C:\Users\faman\Downloads\backend-dev-test\CalculatorLogic\obj\Debug\netcoreapp2.2\CalculatorLogic.AssemblyInfo.cs
 C:\Users\faman\Downloads\backend-dev-test\CalculatorLogic\obj\Debug\netcoreapp2.2\CalculatorLogic.dll
 C:\Users\faman\Downloads\backend-dev-test\CalculatorLogic\obj\Debug\netcoreapp2.2\CalculatorLogic.pdb
+D:\WorkingData\backend-dev-test\CalculatorLogic\bin\Debug\netcoreapp2.2\CalculatorLogic.deps.json
+D:\WorkingData\backend-dev-test\CalculatorLogic\bin\Debug\netcoreapp2.2\CalculatorLogic.dll
+D:\WorkingData\backend-dev-test\CalculatorLogic\bin\Debug\netcoreapp2.2\CalculatorLogic.pdb
+D:\WorkingData\backend-dev-test\CalculatorLogic\obj\Debug\netcoreapp2.2\CalculatorLogic.csprojAssemblyReference.cache
+D:\WorkingData\backend-dev-test\CalculatorLogic\obj\Debug\netcoreapp2.2\CalculatorLogic.AssemblyInfoInputs.cache
+D:\WorkingData\backend-dev-test\CalculatorLogic\obj\Debug\netcoreapp2.2\CalculatorLogic.AssemblyInfo.cs
+D:\WorkingData\backend-dev-test\CalculatorLogic\obj\Debug\netcoreapp2.2\CalculatorLogic.dll
+D:\WorkingData\backend-dev-test\CalculatorLogic\obj\Debug\netcoreapp2.2\CalculatorLogic.pdb
