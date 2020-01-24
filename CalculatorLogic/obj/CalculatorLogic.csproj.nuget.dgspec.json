@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\faman\\Downloads\\backend-dev-test\\CalculatorLogic\\CalculatorLogic.csproj": {}
+    "D:\\WorkingData\\backend-dev-test\\CalculatorLogic\\CalculatorLogic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\faman\\Downloads\\backend-dev-test\\CalculatorLogic\\CalculatorLogic.csproj": {
+    "D:\\WorkingData\\backend-dev-test\\CalculatorLogic\\CalculatorLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\faman\\Downloads\\backend-dev-test\\CalculatorLogic\\CalculatorLogic.csproj",
+        "projectUniqueName": "D:\\WorkingData\\backend-dev-test\\CalculatorLogic\\CalculatorLogic.csproj",
         "projectName": "CalculatorLogic",
-        "projectPath": "C:\\Users\\faman\\Downloads\\backend-dev-test\\CalculatorLogic\\CalculatorLogic.csproj",
+        "projectPath": "D:\\WorkingData\\backend-dev-test\\CalculatorLogic\\CalculatorLogic.csproj",
         "packagesPath": "C:\\Users\\faman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\faman\\Downloads\\backend-dev-test\\CalculatorLogic\\obj\\",
+        "outputPath": "D:\\WorkingData\\backend-dev-test\\CalculatorLogic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

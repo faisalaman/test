@@ -6,8 +6,12 @@ namespace ConsoleCalculator
 {
     class Program
     {
+        /// <summary>
+        /// //CODE_REVIEW
+        /// </summary>
         static void Main()
         {
+            
             Console.Write("Type the operation you want to execute (sum, subtract, multiply, divide): ... ");
             var result = Console.ReadLine();
 
@@ -20,7 +24,7 @@ namespace ConsoleCalculator
             var calculator = new Calculator();
 
 
-            
+            //CODE_REVIEW
             if (result == "sum")
             {
                 calculator.color = ConsoleColor.Red;

@@ -5898,11 +5898,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\faman\\Downloads\\backend-dev-test\\CalculatorTest\\CalculatorTest.csproj",
+      "projectUniqueName": "D:\\WorkingData\\backend-dev-test\\CalculatorTest\\CalculatorTest.csproj",
       "projectName": "CalculatorTest",
-      "projectPath": "C:\\Users\\faman\\Downloads\\backend-dev-test\\CalculatorTest\\CalculatorTest.csproj",
+      "projectPath": "D:\\WorkingData\\backend-dev-test\\CalculatorTest\\CalculatorTest.csproj",
       "packagesPath": "C:\\Users\\faman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\faman\\Downloads\\backend-dev-test\\CalculatorTest\\obj\\",
+      "outputPath": "D:\\WorkingData\\backend-dev-test\\CalculatorTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -5923,11 +5923,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\faman\\Downloads\\backend-dev-test\\CalculatorLogic\\CalculatorLogic.csproj": {
-              "projectPath": "C:\\Users\\faman\\Downloads\\backend-dev-test\\CalculatorLogic\\CalculatorLogic.csproj"
+            "D:\\WorkingData\\backend-dev-test\\CalculatorLogic\\CalculatorLogic.csproj": {
+              "projectPath": "D:\\WorkingData\\backend-dev-test\\CalculatorLogic\\CalculatorLogic.csproj"
             },
-            "C:\\Users\\faman\\Downloads\\backend-dev-test\\ConsoleCalculator\\ConsoleCalculator.csproj": {
-              "projectPath": "C:\\Users\\faman\\Downloads\\backend-dev-test\\ConsoleCalculator\\ConsoleCalculator.csproj"
+            "D:\\WorkingData\\backend-dev-test\\ConsoleCalculator\\ConsoleCalculator.csproj": {
+              "projectPath": "D:\\WorkingData\\backend-dev-test\\ConsoleCalculator\\ConsoleCalculator.csproj"
             }
           }
         }
