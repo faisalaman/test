@@ -1,0 +1,7 @@
+C:\Users\faman\Downloads\backend-dev-test\CalculatorLogic\bin\Debug\netcoreapp2.2\CalculatorLogic.deps.json
+C:\Users\faman\Downloads\backend-dev-test\CalculatorLogic\bin\Debug\netcoreapp2.2\CalculatorLogic.dll
+C:\Users\faman\Downloads\backend-dev-test\CalculatorLogic\bin\Debug\netcoreapp2.2\CalculatorLogic.pdb
+C:\Users\faman\Downloads\backend-dev-test\CalculatorLogic\obj\Debug\netcoreapp2.2\CalculatorLogic.AssemblyInfoInputs.cache
+C:\Users\faman\Downloads\backend-dev-test\CalculatorLogic\obj\Debug\netcoreapp2.2\CalculatorLogic.AssemblyInfo.cs
+C:\Users\faman\Downloads\backend-dev-test\CalculatorLogic\obj\Debug\netcoreapp2.2\CalculatorLogic.dll
+C:\Users\faman\Downloads\backend-dev-test\CalculatorLogic\obj\Debug\netcoreapp2.2\CalculatorLogic.pdb
