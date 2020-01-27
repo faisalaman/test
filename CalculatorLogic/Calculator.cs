@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Globalization;
+using System.Threading;
 
 namespace CalculatorLogic
 {
@@ -8,6 +10,8 @@ namespace CalculatorLogic
     public class Calculator
     {
         public ConsoleColor color = ConsoleColor.White;
+        
+
         /// <summary>
         /// //CODE_REVIEW
         /// </summary>
@@ -18,6 +22,15 @@ namespace CalculatorLogic
         {
             var x = a + b;
             Console.ForegroundColor = color;
+
+            Console.WriteLine("this is test");
+
+            Thread.CurrentThread.CurrentUICulture =
+                CultureInfo.GetCultureInfo("nb-NO");
+
+            Console.WriteLine("this is test");
+
+            CultureInfo enUs = new CultureInfo("fr-MU");
             Console.WriteLine($"The result is: {x}");
             return x;
         }
